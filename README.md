@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Anthony this is the page for my Vaccine Exemption 
+- Hi, I’m Anthony this is the page for my Vaccine Exemption 
 - Please find attatched PDF in this site labled "RELIGIOUS_EXEMPTION01"
 - It is usually located above this text. 
 - Please make sure to apply proper hygeine and social distancing in these difficult times. 
